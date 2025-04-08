@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Filhas com Propósito</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff0f5;
+      color: #3b1a2e;
+    }
+
+    header {
+      background: linear-gradient(to right, #f8cdda, #fbc2eb);
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header img {
+      max-width: 220px;
+      margin-bottom: 20px;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #a64d79;
+    }
+
+    .section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .section h2 {
+      font-size: 2rem;
+      color: #a64d79;
+      margin-bottom: 20px;
+    }
+
+    .section img {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      margin-top: 20px;
+    }
+
+    .cta {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .cta a {
+      background: linear-gradient(to right, #f7a1c4, #e2b17b);
+      color: white;
+      padding: 15px 30px;
+      border-radius: 30px;
+      font-size: 1.2rem;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .cta a:hover {
+      opacity: 0.9;
+    }
+
+    footer {
+      background-color: #fff5f5;
+      text-align: center;
+      padding: 20px;
+      color: #9c5c7d;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="1.jpg" alt="Logo Filhas com Propósito" />
+    <h1>Filhas com Propósito</h1>
+  </header>
+
+  <section class="section">
+    <h2>Transforme sua vida com a orientação certa</h2>
+    <p>
+      Curso ministrado por Pastora Adriana Queiroz, com 24 anos de experiência no ministério. Psicanalista cristã, teóloga e coaching ministerial, Adriana já ajudou centenas de mulheres a restaurarem suas vidas espirituais, emocionais e familiares.
+    </p>
+    <img src="2.jpg" alt="Imagem inspiradora" />
+  </section>
+
+  <section class="section">
+    <h2>O que você vai aprender</h2>
+    <ul>
+      <li>🔸 Restauração emocional e espiritual</li>
+      <li>🔸 Crescimento no relacionamento com Deus</li>
+      <li>🔸 Fortalecimento do casamento</li>
+      <li>🔸 Prosperidade segundo princípios bíblicos</li>
+      <li>🔸 Aplicações práticas e atividades semanais</li>
+    </ul>
+    <img src="3.jpg" alt="Conteúdo do curso" />
+  </section>
+
+  <section class="section">
+    <h2>Como funciona</h2>
+    <p>
+      O curso é 100% online, com aulas gravadas e uma aula ao vivo por semana para tirar dúvidas. Também terá materiais complementares e atividades práticas. São 5 módulos intensos e transformadores.
+    </p>
+    <img src="4.jpg" alt="Aula online" />
+  </section>
+
+  <section class="section">
+    <h2>Investimento</h2>
+    <p>
+      Valor promocional: <strong>R$ 197,00</strong><br/>
+      Dividido em até 12x no cartão.<br/><br/>
+      Garanta sua vaga agora e dê o primeiro passo rumo à transformação da sua vida.
+    </p>
+    <div class="cta">
+      <a href="#">Comprar Curso</a>
+    </div>
+    <img src="5.jpg" alt="Chamada para ação" />
+  </section>
+
+  <section class="section">
+    <h2>Depoimentos</h2>
+    <p>
+      [Espaço reservado para depoimentos de alunas]
+    </p>
+    <img src="6.jpg" alt="Mulheres felizes" />
+  </section>
+
+  <footer>
+    &copy; 2025 Filhas com Propósito. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
